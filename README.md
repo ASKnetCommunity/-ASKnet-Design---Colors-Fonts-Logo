@@ -7,8 +7,7 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 ### Yellow (main) *connotation: youthful, fresh, Africa, attention*
 
-* ![#F0EEE5](color-codes/F0EEE5.png) Background: Beige #F0EEE5 `#ffffff` white
-* `#ffffff` white
+* ![#F0EEE5](color-codes/F0EEE5.png) Background: Beige #F0EEE5 
 * ![#DFAF5F](color-codes/DFAF5F.png) Darker design elements and darker highlighted parts in background: #DFAF5F 
 * ![#EADEC5](color-codes/EADEC5.png) Lighter highlighted parts in background: #EADEC5
 

@@ -39,5 +39,8 @@ More about [#ASKnet](https://asknet.community/) here.
 
 ![asknet-logo-variant](logos/ASKnet_backpack_graphic_08_2023.png)
 
-# License
-[License](https://github.com/opencultureagency/Open-Documentation-Guide/blob/master/LICENSE.md)
+# License Note
+- [CC-BY-SA 4.0 International License](/LICENSE.md) via [#ASKnet](https://asknet.community)
+- Original Color inspiration from [Open Documentation Guide](https://github.com/opencultureagency/Open-Documentation-Guide/)
+- **Complete Redesign 2.0** (main) based on original Legacy Design Branch - November 2023 Website
+- Other Platforms refer to old 1.x Release Branch (legacy)

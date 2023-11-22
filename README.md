@@ -1,7 +1,7 @@
 # ASKnet-Design
 This repository includes the corporate design infos (colors, fonts, logo) of the #ASKnet websites.
 
-More about [#ASKnet](https://www.weareasknet.org/) here.
+More about [#ASKnet](https://asknet.community) here.
 
 # **Color scheme + Hex Color Codes:**
 
@@ -27,5 +27,6 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 * ![asknet-logo](logos/asknet-logo.png) 
 
-## License
-[License](https://github.com/opencultureagency/Open-Documentation-Guide/blob/master/LICENSE.md)
+## License 
+- [CC-BY-SA 4.0 International License](/LICENSE.md) via [#ASKnet](https://asknet.community)
+- Original Color inspiration from [Open Documentation Guide](https://github.com/opencultureagency/Open-Documentation-Guide/)

@@ -1,19 +1,19 @@
 # ASKnet-Design
-This repository includes the corporate design infos (colors, fonts, logo) of the #ASKnet websites.
+This repository includes the corporate design infos (colors, fonts, logo) of the #ASKnet websites and print materials.
 
-More about [#ASKnet](https://www.weareasknet.org/) here.
+More about [#ASKnet](https://asknet.community/) here.
 
 # **Color scheme + Hex Color Codes:**
 
-### Yellow (main) *connotation: youthful, fresh, Africa, attention*
+### Purple (main) *connotation: imagination, wisdom, creativity, uplifting*
 
-* ![#F0EEE5](color-codes/F0EEE5.png) Background: Beige #F0EEE5 
-* ![#DFAF5F](color-codes/DFAF5F.png) Darker design elements and darker highlighted parts in background: #DFAF5F 
-* ![#EADEC5](color-codes/EADEC5.png) Lighter highlighted parts in background: #EADEC5
+* ![#30002A](color-codes/30002A.png) Dark Purple #30002A — Background, Headings
+* ![#8F747F](color-codes/8F747F.png) Light Purple #8F747F — Background
 
-### Green (main): *connotation: knowledge, open spaces, freedom*
+### Ochre/Yellow (main) *connotation: youthful, fresh, earthy*
 
-* ![#7B8C37](color-codes/7B8C37.png) Green can be used as an accent color: #7B8C37 
+* ![#C5A14B](color-codes/C5A14B.png) Ochre #C5A14B — Design Elements, Background
+* ![#EEE7D4](color-codes/EEE7D4.png) Light Ochre #EEE7D4 — Background
 
 ### Black & White (graphics)
 
@@ -21,11 +21,23 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 # **Fonts used:**
 
-* Body Text: Source Sans Pro [Download Font](https://fonts.google.com/specimen/Source+Sans+Pro/)
+### Print
+
+* *Yorkten Slab* — headings
+* *Interstate Condensed (light and regular)* — text blocks
+
+### Website
+
+* *Montserrat* — headings
+* *Noto Serif* — text blocks
 
 # **Logos:**
 
-* ![asknet-logo](logos/asknet-logo.png) 
+![asknet-logo](logos/asknet-logo.png) 
 
-## License
+![asknet-banner](logos/ASKnet_banner_03_2023.png)
+
+![asknet-logo-variant](logos/ASKnet_backpack_graphic_08_2023.png)
+
+# License
 [License](https://github.com/opencultureagency/Open-Documentation-Guide/blob/master/LICENSE.md)
